@@ -1,0 +1,17 @@
+{
+  "name": "catalyst-rate-limiter",
+  "version": "1.0.3",
+  "main": "index.js",
+  "type": "commonjs",
+  "keywords": [
+    "rate-limiter",
+    "zcatalyst",
+    "middleware",
+    "express"
+  ],
+  "author": "Lokesh & Nirmal",
+  "license": "MIT",
+  "dependencies": {
+    "zcatalyst-sdk-node": "^3.0.2"
+  }
+}
